@@ -1,0 +1,38 @@
+[
+  {
+    "id": 3,
+    "name": "Alice Johnson",
+    "email": "alicejohnson@example.com",
+    "phone": "555-123-4567"
+  },
+  {
+    "id": 4,
+    "name": "Bob Wilson",
+    "email": "bobwilson@example.com",
+    "phone": "222-987-6543"
+  },
+  {
+    "id": 5,
+    "name": "Eva Garcia",
+    "email": "evagarcia@example.com",
+    "phone": "333-555-8888"
+  },
+  {
+    "id": 6,
+    "name": "Michael Davis",
+    "email": "michaeldavis@example.com",
+    "phone": "444-777-9999"
+  },
+  {
+    "id": 7,
+    "name": "Linda Martinez",
+    "email": "lindamartinez@example.com",
+    "phone": "777-222-5555"
+  },
+  {
+    "id": 8,
+    "name": "William Brown",
+    "email": "williambrown@example.com",
+    "phone": "888-444-2222"
+  }
+]
